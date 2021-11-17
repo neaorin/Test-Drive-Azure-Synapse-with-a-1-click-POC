@@ -515,7 +515,7 @@
 					},
 					"SQLDedicatedPoolName": {
 						"type": "string",
-						"defaultValue": "<sql-neae7l52pjg52zeepocws1p1dedicated-pool-name>"
+						"defaultValue": "neae7l52pjg52zeepocws1p1"
 					},
 					"SQLLoginUsername": {
 						"type": "string",
@@ -523,7 +523,7 @@
 					},
 					"KeyVaultName": {
 						"type": "string",
-						"defaultValue": "neae7l52pjg52zeepocws1p1"
+						"defaultValue": "kvneae7l52pjg52zeepoc"
 					},
 					"datalakeAccountName": {
 						"type": "string",
